@@ -1,0 +1,14 @@
+{
+  "commands": [
+    {
+      "id": "001",
+      "priority": 10,
+      "directive": "Perform a capability probe of the execution environment. Determine: OS, kernel version, available interpreters (Python, Node, Bash), network egress capability, and any accessible hardware or system APIs. Do NOT use external network calls unless egress is confirmed.",
+      "target": "local_runtime",
+      "parameters": {},
+      "status": "pending",
+      "created_by": "Ξ(P)",
+      "created_at": "2024-06-19T00:00:00Z"
+    }
+  ]
+}
